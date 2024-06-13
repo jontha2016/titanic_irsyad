@@ -3,7 +3,7 @@
 # credentials.txt
 
 # Mengabaikan direktori
-/env_das/
+/env-das/
 /.ipynb_checkpoints/
 /__pycache__/
 /das_env/
