@@ -2,14 +2,11 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-# from sklearn.preprocessing import MinMaxScaler
-
-# import plotly.express as px
 
 
 
-# def load_data(data):
-#     return pd.read_csv(data)
+
+
 
 st.cache
 def load_data(csv):
